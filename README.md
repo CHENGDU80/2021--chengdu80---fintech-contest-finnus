@@ -36,5 +36,5 @@ How to run the app
 
 9. After launching the app, you can login using following 2 accounts:
 --For the individual user: user_name - individual_user and password - individual_user
---For te corporate user: user_name - corporate_user and password - corporate_user
+--For the corporate user: user_name - corporate_user and password - corporate_user
 
