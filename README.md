@@ -1,5 +1,11 @@
 Folder structure:
 
+/classification_algorithm
+1. Contains the classification model. MLI, feature engineering codes, and the final prediction(.csv file)
+
+/presentation
+1. Contains the presentation slides
+
 /chengdu_front_end/assets
 1. sample images and design support files for the app
 
